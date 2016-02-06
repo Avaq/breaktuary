@@ -5,7 +5,6 @@
   "main": "breaky.js",
   "dependencies": {
     "cheerio": "^0.20.0",
-    "ramda": "^0.17.1",
     "ramda-fantasy": "^0.4.1",
     "sanctuary": "^0.8.0"
   },
