@@ -6,7 +6,7 @@
   "dependencies": {
     "cheerio": "^0.20.0",
     "ramda-fantasy": "^0.4.1",
-    "sanctuary": "^0.8.0"
+    "sanctuary": "git+https://github.com/plaid/sanctuary.git#3f848b246d1ed72df51a8451674971aa2eccd30f"
   },
   "devDependencies": {},
   "scripts": {
